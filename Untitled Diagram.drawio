@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T04:24:03.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="AEgRkyLNzD038S87O4ro" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T05:24:34.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="onUQ6ilwHlbmC2f2l0Lk" version="21.3.5" type="github">
   <diagram name="Page-1" id="EVZfcv6N2X14CKi07SOx">
-    <mxGraphModel dx="1760" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1051,7 +1051,61 @@
           <mxGeometry x="930" y="2930" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGD8lqs-76YzBRC_-Ija-169" value="COFFEE SHOP STAFF DASHBOARD" style="text;strokeColor=#82b366;align=center;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillStyle=solid;glass=1;shadow=1;fontStyle=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="1540" width="323.75" height="40" as="geometry" />
+          <mxGeometry x="1997.5" y="1540" width="323.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VGD8lqs-76YzBRC_-Ija-170" target="VGD8lqs-76YzBRC_-Ija-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VGD8lqs-76YzBRC_-Ija-170" target="VGD8lqs-76YzBRC_-Ija-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VGD8lqs-76YzBRC_-Ija-170" target="VGD8lqs-76YzBRC_-Ija-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VGD8lqs-76YzBRC_-Ija-170" target="VGD8lqs-76YzBRC_-Ija-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-170" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="1600" width="63.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-171" value="LOGOUT" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="2527.5" y="1730" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-172" value="COFFEE" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="2271.2400000000002" y="1730" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-173" value="INVENTORY" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="2022.53" y="1730" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-174" value="TABLES" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="1777.5" y="1730" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VGD8lqs-76YzBRC_-Ija-180" target="VGD8lqs-76YzBRC_-Ija-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-180" value="TABLES" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="1777.5" y="2050" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VGD8lqs-76YzBRC_-Ija-181" target="VGD8lqs-76YzBRC_-Ija-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-181" value="Click TABLES to Display Live Tables" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1686.25" y="2180" width="242.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VGD8lqs-76YzBRC_-Ija-183" target="VGD8lqs-76YzBRC_-Ija-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-183" value="Navigate Tables" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1686.25" y="2390" width="242.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-197" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1775.63" y="2621.25" width="63.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VGD8lqs-76YzBRC_-Ija-205" target="VGD8lqs-76YzBRC_-Ija-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGD8lqs-76YzBRC_-Ija-205" value="Display live Tables" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1686.25" y="2300" width="242.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
